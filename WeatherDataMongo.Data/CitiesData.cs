@@ -16,7 +16,7 @@ namespace WeatherDataMongo.Data
         /*
          TODO: 
         Move connection to settings
-        Optimize the codekhgkh
+        Optimize the codekhgkh tests 1
          */
 
         private readonly string _rootPath;
