@@ -13,6 +13,12 @@ namespace WeatherDataMongo.Data
 {
     public class CitiesData
     {
+        /*
+         TODO: 
+        Move connection to settings
+        Optimize the code
+         */
+
         private readonly string _rootPath;
         private string connectionStrig
         {
